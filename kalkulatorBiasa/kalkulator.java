@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Kalkulator ini hanya bisa perkalian, pembagian, pengurangan dan penjumlahan
+
 public class kalkulator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
